@@ -71,11 +71,11 @@ todo
 
 #### Вопросы
 1. Выполните nslookup, чтобы получить IP-адрес какого-либо веб-сервера в Азии
-   - <img src="images/question1part1.png" width=500 />
+   - <img src="image/question1part1.png" width=500 />
 2. Выполните nslookup, чтобы определить авторитетные DNS-серверы для какого-либо университета в Европе
-   - <img src="images/question1part2.png" width=500 />
+   - <img src="image/question1part2.png" width=500 />
 3. Используя nslookup, найдите веб-сервер, имеющий несколько IP-адресов. Сколько IP-адресов имеет веб-сервер вашего учебного заведения?
-   - <img src="images/question1part3.png" width=500 />
+   - <img src="image/question1part3.png" width=500 />
    - <!-- todo -->
 
 ### Б. DNS-трассировка www.ietf.org (3 балла)
