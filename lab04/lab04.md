@@ -76,7 +76,7 @@ todo
    - <img src="image/question1part2.png" width=500 />
 3. Используя nslookup, найдите веб-сервер, имеющий несколько IP-адресов. Сколько IP-адресов имеет веб-сервер вашего учебного заведения?
    - <img src="image/question1part3.png" width=500 />
-   - <!-- todo -->
+   - <img src="image/question1part4.png" width=500 />
 
 ### Б. DNS-трассировка www.ietf.org (3 балла)
 
