@@ -55,8 +55,8 @@
    Покажите разницу между тем, когда каждый TCP-сегмент был отправлен и когда было
    получено каждое подтверждение, чему равно значение RTT для каждого из 6 сегментов?
    - 1, 618, 755, 2165, 3575, 4985
-   - <img src="images/question1part3.png" width=500/>
-   - <img src="images/question1part4.png" width=500/>
+   - <img src="images/question1part3.png" />
+   - <img src="images/question1part4.png" />
    - RTT примерно 193мс (от 0.192884000 sec до 0.193933000 sec)
    - <img src="images/question1part5.png" width=500/>
 7. Чему равна пропускная способность (количество байтов, передаваемых в единицу
