@@ -43,7 +43,24 @@
 Приложите скриншоты.
 
 #### Скрины
-todo
+
+настройка
+<img src="images/question2part1.png" width=500/>
+
+настройка 2
+<img src="images/question2part2.png" width=500/>
+
+загрузка файла
+<img src="images/question2part3.png" width=500/>
+
+создание папки (скрин первой супер-мега-папки не сохранился)
+<img src="images/question2part4.png" width=500/>
+
+загрузка папки 
+<img src="images/question2part5.png" width=500/>
+
+удаление папки 
+<img src="images/question2part6.png" width=500/>
 
 ### FTP клиент (3 балла)
 Создайте консольное приложение FTP клиента для работы с файлами по FTP. Приложение может
