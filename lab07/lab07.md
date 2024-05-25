@@ -87,7 +87,8 @@ Time-Sequence-Graph (Stevens) (Статистика => График TCP пото
 серверу gaia.cs.umass.edu. Приложите соответствующий скрин программы Wireshark.
 
 #### Скрин
-todo
+
+<img src="images/question2part1.png" width=500/>
 
 ## Программирование. Эхо-запросы через UDP
 Реализуйте сервер для пингования, а также его клиента.
