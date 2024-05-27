@@ -14,7 +14,10 @@
 Приложите скриншоты полученных сообщений (для обоих форматов).
 
 #### Демонстрация работы
-todo
+
+<img src="images/question1part1.png" width=400/>
+<img src="images/question1part2.jpg" width=400/>
+<img src="images/question1part3.jpg" width=400/>
 
 ### 2. SMTP-клиент (3 балла)
 Разработайте простой почтовый клиент, который отправляет текстовые сообщения
