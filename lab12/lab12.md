@@ -27,7 +27,13 @@ Final state of router 198.71.243.61 table:
 Приведите скрин или лог работы программы.
 
 #### Демонстрация работы
-todo
+
+```
+ python3 rip.py 
+```
+
+<img src="images/question1part1.png" width=600/>
+<img src="images/question1part2.png" width=600/>
 
 ### Задание Б (1 балл)
 Выведите на консоль промежуточные этапы работы протокола: по каждому маршрутизатору
@@ -43,7 +49,16 @@ Simulation step 3 of router 42.162.54.248
 ```
 
 #### Демонстрация работы
-todo
+
+```
+ python3 rip.py -s 
+```
+или
+```
+ python3 rip.py --steps 
+```
+
+<img src="images/question2part1.png" width=600/>
 
 ### Задание В (2 балла)
 
